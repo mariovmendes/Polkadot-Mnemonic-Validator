@@ -1,0 +1,20 @@
+{
+  "name": "mnemonicgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "core-js": "^2.6.5",
+    "puppeteer": "^15.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
