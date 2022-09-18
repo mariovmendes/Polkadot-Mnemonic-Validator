@@ -11,7 +11,7 @@
 - Creates a new .txt file called "attempts" and saves the generated mnemonics;
 - Navigates to the Polkadot Network's Website;
 - Checks if the mnemonic is valid;
-- Saves the valida mnemonic into a .txt file called "result"
+- Saves the valid mnemonic into a .txt file called "result"
 
 ## Installation
 
