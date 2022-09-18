@@ -1,5 +1,5 @@
 ### <img align="center" alt="ndjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/white/dot.png" />
-# Polkadot Mnemonic Validator
+# Mnemonic Validator
 ### Generates mnemonics and checks if any match the wallet's.
 
 ## Packages
