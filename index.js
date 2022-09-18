@@ -2,7 +2,7 @@ var bip39 = require('bip39')
 const fs = require('fs').promises
 const {readFileSync} = require('fs');
 const puppeteer = require('puppeteer')
-const walletAddress = "14kqUazxibd8GSdw7QaApNVGTz62nNWdQacuPgbF8FGwBQP"
+const walletAddress = "14kqUazxibd8GSdw7QaApNVGTz62nNWdQacuPgbF8FGwBQP" // PUT WALLET ADDRESS HERE
 
 function checkIfContainsSync(str) {
     const contents = readFileSync("attempts.txt", 'utf-8');
